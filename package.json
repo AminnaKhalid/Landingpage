@@ -1,7 +1,6 @@
 {
   "name": "landingpage",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "vite"
@@ -17,5 +16,6 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1"
-  }
+  },
+  "description": ""
 }
